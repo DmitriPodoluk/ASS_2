@@ -1,0 +1,45 @@
+#16 Truck enter to waitings 
+#16 finish time : 1305
+----------------------------------------------
+#17 Truck enter to waitings 
+#17 finish time : 356
+----------------------------------------------
+------------------------------------------------ 
+#17 Truck  enter to washing 
+#17 Truck wash time: 396
+------------------------------------ 
+#18 Truck enter to waitings 
+#18 finish time : 611
+----------------------------------------------
+#15 Truck enter to waitings 
+#15 finish time : 125
+----------------------------------------------
+#17 Truck !!!!!!finished Washing!!!!!!
+------------------------------------------------ 
+------------------------------------------------ 
+#16 Truck  enter to washing 
+#16 Truck wash time: 217
+------------------------------------ 
+#17 Truck  added succesfully to truck list 
+------------------------------------------------ 
+#18 Truck  enter to washing 
+#18 Truck wash time: 145
+------------------------------------ 
+#18 Truck !!!!!!finished Washing!!!!!!
+------------------------------------------------ 
+#18 Truck  added succesfully to truck list 
+------------------------------------------------ 
+#15 Truck  enter to washing 
+#15 Truck wash time: 40
+------------------------------------ 
+#15 Truck !!!!!!finished Washing!!!!!!
+------------------------------------------------ 
+#15 Truck  added succesfully to truck list 
+#16 Truck !!!!!!finished Washing!!!!!!
+------------------------------------------------ 
+#16 Truck  added succesfully to truck list 
+ there were no cars  to wash 
+truck average wash time(seconds): 199
+ there were no cars  to wash 
+ there were no cars  to wash 
+!!!end of program!!!!
